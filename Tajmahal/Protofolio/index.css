@@ -1,0 +1,129 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+    body{
+    background-color: rgb(0,0,33);
+    color: #fff;
+}
+header{
+    border: 2px solid;
+    height: 60px;
+    background-color: rgb(20, 20, 129);
+    color: #fff;
+}
+nav .demo li a{
+    text-decoration: none;
+    color: #fff;
+}
+nav .demo li a:hover{
+    color: rgb(153, 153,226);
+    font-size: 1.04rem;
+}
+
+
+.demo{
+    list-style: none;
+    display: flex;
+   gap: 10%;
+   float: right;
+    margin-right: 10%;
+   text-align: center;
+   margin-top: 1px;
+ 
+}
+.left-div{
+    margin-left: 15%;
+    margin-top: 15px;
+    font-size: 18px;
+}
+.first-section{
+    display: flex;
+    justify-content: space-around;
+    margin: 110px 0;
+}
+.first-section >div{
+    width: 30%;
+    font-size: 30px;
+}
+.purple{
+    color: rgb(80, 20, 136);
+}
+.left-section{
+    /* background-color: red; */
+    width: 200px;
+    margin: 30px 0;
+}
+.right-section{
+    /* background-color: red; */
+    width: 30%;
+}
+.right-section img{
+    width: 80%;
+    margin: 50px 0;
+}
+#element{
+    color: rgb(110, 110, 163);
+}
+.secondSection{
+   max-width: 80vw;
+   margin: auto;
+   /* height: 80vh; */
+
+}
+.secondSection,h1{
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.secondSection,span{
+    margin-left: 30px;
+}
+main hr{
+    /* border: 0; */
+    background-color:#fff;
+    height: 1.2 px;
+    margin: 60px 80px ;
+}
+.box{
+    height: 80vh;
+    background-color: #fff;
+    width: 80w;
+    height: 2px ;
+    margin: 56px 0;
+    margin-left: 30px;
+    margin-right: 30px;
+    display: flex;
+}
+.vertical{
+    height: 93px;
+    width: 1px;
+    background-color: #fff;
+    margin: 0 140px;
+  
+}
+  .image{
+    width: 23px;
+    position: relative;
+    top: -20px;
+    right: 10px;
+    margin-bottom: 30px;
+  }
+  .vertical-tittle{
+    position: relative;
+    top: 50px;
+    font-size: 14px;
+  }
+  .vertical-desc{
+    position: relative;
+    top: 50px;
+    color: grey;
+    width: 150px;
+    font-size: 9px;
+    height: 100px;
+   
+  }
+.gap{
+    height: 80vh;
+}

@@ -1,0 +1,41 @@
+.background-img-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+   height: 30vh;
+
+    background-size: cover;
+}
+.heading{
+    color: #fff;
+    width: 200px;
+    padding: 10px;
+    font-size: 30px;
+    
+}
+/* .Diwali-bottom-section{
+background-size: cover;
+ background-color: aqua;
+ height: 180vh;
+} */
+.Diwali-bottom-section{
+    text-align: center;
+    background-color: #e6f6ff;
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.Diwali{
+    border: 2px solid;
+    width: 200px;
+    text-align: center;
+    border-radius: 9px;
+    margin-left: 25%;
+
+}
+.ballon{
+    color: orange;
+font-size: 14px;
+}
+.rupees{
+    font-size: 10px;
+}

@@ -1,0 +1,40 @@
+.container{
+    background-image: url("https://cdn.pixabay.com/photo/2015/10/06/18/26/eiffel-tower-975004_1280.jpg");
+    
+
+   
+
+
+}
+.heading{
+    color: #fff;
+    padding: 16px;
+}
+.content-container{
+ 
+    border-radius: 8px;
+    background-color:orange;
+   margin-bottom: 10px;
+   width: 350px;
+   margin-left: 40%;
+
+}
+.text-container{
+    color: blue;
+    font-size: 14px;
+    padding: 10px;
+
+}
+.img-size{
+    width: 80px;
+    height: 100px;
+    padding: 10px;
+ 
+}
+h1{
+    font-size: 12px;
+    text-align: center;
+}
+p{
+    color: #fff;
+}

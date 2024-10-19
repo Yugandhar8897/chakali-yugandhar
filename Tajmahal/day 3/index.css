@@ -1,0 +1,36 @@
+*{
+    background-color: black;
+    padding: 0%;
+    margin: 0%;
+}
+#bulb{
+    width: 200px;
+    height: 200px;
+    margin-left: 40%;
+}
+#cat-img{
+    width: 200px;
+    height: 200px;
+    margin-left: 40%;
+}
+#switch-container{
+    width: 100px;
+    height: 100px;
+    margin-left: 40%;
+
+}
+#switch-board{
+    width: 200px;
+    height: 200px;
+    margin-left: 40%;
+}
+#status{
+    color: orange;
+    font-size: 24px;
+}
+#off-switch,#on-switch{
+    width:50px;
+    gap: 1%;
+    color: #fff;
+
+}
